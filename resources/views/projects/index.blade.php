@@ -9,8 +9,9 @@
     <link rel="stylesheet" href="fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/home.css">
 </head>
+
 <body>
-        <!-- navbar -->
+
         <nav class="navbar navbar-expand-lg navbar-dark " style="background-color:#000000">
         <div class="container">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -114,6 +115,6 @@
 
     <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="fontawesome/js/all.min.js"></script>
-    <br>
+    <br><br>
 </body>
 </html>

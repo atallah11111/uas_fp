@@ -75,6 +75,6 @@
     </div>
 
     <script src="../bootstrap/js/bootstrap.bundle.min.js"></script>
-    <br>
+
 </body>
 </html>

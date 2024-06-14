@@ -23,9 +23,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark warna5">
         <div class="container">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02"
-                aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+                asasa
             </button>
            -->
     <nav class="navbar navbar-expand-lg navbar-dark " style="background-color:#000000">
